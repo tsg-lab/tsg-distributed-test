@@ -74,7 +74,7 @@ We will evaluate your submission based on:
     * Services must wait for dependencies (DB/Queue) to be ready.
 6.  **AI Transparency:**
     * You are permitted to use AI tools.
-    * If you do, include your custom built prompt into `ai_instructions/instructions.txt`, also include any key prompts utilised with your reasoning, so that we can analyse how you've built and customised your AI Agent. Finally include the platforms/agents you have utilised (e.g. Copilot, Gemini, Grok, etc).
+    * If you do, include your custom built prompt into `ai_instructions/instructions.txt`, also include any key prompts utilised and your reasoning behind, enabling us to analyse how you've custom built your AI Agent. Finally, include the platforms and/or agents you have utilised (e.g. Copilot, Gemini, Grok, etc).
 
 ## 📄 Documentation (`DECISIONS.md`)
 Include a `DECISIONS.md` file explaining:
